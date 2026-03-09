@@ -105,5 +105,3 @@ http://localhost:5173
 ## 👨‍💻 Author
 
 **Haazim**
-
-Give it a **star on GitHub** ⭐

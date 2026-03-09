@@ -1,0 +1,9 @@
+Frontend/node_modules
+Frontend/eslint.config.js
+Frontend/*.json
+Frontend/tailwind.config.js
+Frontend/vite.config.js
+
+Backend/node_modules
+Backend/.env
+Backend/*.json
